@@ -1,0 +1,116 @@
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\obj\Debug\TwitterProject.csprojResolveAssemblyReference.cache
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\TwitterProject.dll.config
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\TwitterProject.dll
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\TwitterProject.pdb
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\Antlr3.Runtime.dll
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\EntityFramework.dll
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\EntityFramework.SqlServer.dll
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\Microsoft.Owin.dll
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\Microsoft.Owin.Security.dll
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\Microsoft.Owin.Security.Google.dll
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\Microsoft.Web.Infrastructure.dll
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\Newtonsoft.Json.dll
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\Owin.dll
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\System.Web.Helpers.dll
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\System.Web.Mvc.dll
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\System.Web.Optimization.dll
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\System.Web.Razor.dll
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\System.Web.WebPages.Deployment.dll
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\System.Web.WebPages.dll
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\System.Web.WebPages.Razor.dll
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\WebGrease.dll
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\System.Web.Helpers.xml
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\System.Web.Mvc.xml
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\System.Web.Optimization.xml
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\System.Web.Razor.xml
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\System.Web.WebPages.xml
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\System.Web.WebPages.Deployment.xml
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\System.Web.WebPages.Razor.xml
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\Newtonsoft.Json.xml
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\Antlr3.Runtime.pdb
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\EntityFramework.xml
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\EntityFramework.SqlServer.xml
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\Microsoft.Owin.xml
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\Microsoft.Owin.Security.xml
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\Microsoft.Owin.Security.Google.xml
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\obj\Debug\TwitterProject.dll
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\obj\Debug\TwitterProject.pdb
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\obj\Debug\TwitterProject.Migrations.Initialdatabase.resources
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\obj\Debug\TwitterProject.csproj.GenerateResource.Cache
+c:\users\1614982.up\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\obj\Debug\TwitterProject.Migrations.ApplyChanges01.resources
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\bin\TwitterProject.dll.config
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\bin\TwitterProject.dll
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\bin\TwitterProject.pdb
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\bin\Antlr3.Runtime.dll
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\bin\EntityFramework.dll
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\bin\EntityFramework.SqlServer.dll
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\bin\Microsoft.Owin.dll
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\bin\Microsoft.Owin.Security.dll
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\bin\Newtonsoft.Json.dll
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\bin\Owin.dll
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\bin\System.Web.Helpers.dll
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\bin\System.Web.Mvc.dll
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\bin\System.Web.Optimization.dll
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\bin\System.Web.Razor.dll
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\bin\System.Web.WebPages.dll
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\bin\WebGrease.dll
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\bin\System.Web.Helpers.xml
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\bin\System.Web.Mvc.xml
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\bin\System.Web.Optimization.xml
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\bin\System.Web.Razor.xml
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\bin\System.Web.WebPages.xml
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\bin\Newtonsoft.Json.xml
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\bin\Antlr3.Runtime.pdb
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\bin\EntityFramework.xml
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\bin\EntityFramework.SqlServer.xml
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\bin\Microsoft.Owin.xml
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\bin\Microsoft.Owin.Security.xml
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\obj\Debug\TwitterProject.csprojResolveAssemblyReference.cache
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\obj\Debug\TwitterProject.Migrations.Initialdatabase.resources
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\obj\Debug\TwitterProject.Migrations.ApplyChanges01.resources
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\obj\Debug\TwitterProject.csproj.GenerateResource.Cache
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\obj\Debug\TwitterProject.dll
+C:\Users\LuizFernando\Documents\GitHub\TweeterProject\TwitterProject\obj\Debug\TwitterProject.pdb

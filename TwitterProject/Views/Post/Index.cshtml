@@ -1,0 +1,86 @@
+﻿@model IEnumerable<TwitterProject.Models.Post>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Usuario.UserName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Texto)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.dataPost)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Usuario.UserName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Texto)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.dataPost)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.ID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.ID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.ID })
+        </td>
+    </tr>
+}
+
+</table>
+
+<div class="container">
+    <div class="row">
+        <br />
+        <br />
+        <div class="row">
+            <div class="col-sm-7">
+                <div class="panel-group">
+                    <div class="panel panel-primary">
+                        <div class="panel-heading">
+                            <text class="text-left">NOVO POST</text>
+                        </div>
+                        <div class="panel-body">
+                            <textarea class="form-control text-left" style="min-width: 100%" rows="5"></textarea>
+                        </div>
+                        <div class="panel-footer clearfix">
+                            <div class="pull-right">
+                                <a href="#" class="btn btn-success">Publicar</a>
+                            </div>
+                        </div>
+                    </div>
+                    <br />
+                    <div class="panel panel-info">
+                        <div class="panel-heading">Usuário 2</div>
+                        <div class="panel-body">OIE</div>
+                    </div>
+                    <br />
+                    <div class="panel panel-info">
+                        <div class="panel-heading">Usuário 3</div>
+                        <div class="panel-body">OI</div>
+                    </div>
+                    <br />
+                    <div class="panel panel-info">
+                        <div class="panel-heading">Usuário 1</div>
+                        <div class="panel-body">Olá Galera</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

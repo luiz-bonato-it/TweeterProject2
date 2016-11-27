@@ -1,0 +1,62 @@
+﻿@model TwitterProject.Models.Post
+@{
+    ViewBag.Title = "Post";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-3">
+            <br />
+            <br />
+            <ul class="list-group">
+                <li class="list-group-item active">Top 10 - Hashtag</li>
+                <li class="list-group-item">First item</li>
+                <li class="list-group-item">Second item</li>
+                <li class="list-group-item">Third item</li>
+                @*@foreach (Projeto.Models.Hashtag hashtag in ViewBag.hashtags)
+                    {
+                        <li class="list-group-item">@hashtag.Texto</li>
+                    }*@
+            </ul>
+        </div>
+        <br />
+        <br />
+        <div class="row">
+            <div class="col-sm-7">
+                <div class="panel-group">
+                    <div class="panel panel-primary">
+                        <div class="panel-heading">
+                            <text class="text-left">NOVO POST</text>
+                        </div>
+                        <div class="panel-body">
+                            <textarea class="form-control text-left" style="min-width: 100%" rows="5"></textarea>
+                        </div>
+                        <div class="panel-footer clearfix">
+                            <div class="pull-right">
+                                <a href="#" class="btn btn-success">Publicar</a>
+                            </div>
+                        </div>
+                    </div>
+                    <br />
+                    <div class="panel panel-info">
+                        <div class="panel-heading">Usuário 2</div>
+                        <div class="panel-body">OIE</div>
+                    </div>
+                    <br />
+                    <div class="panel panel-info">
+                        <div class="panel-heading">Usuário 3</div>
+                        <div class="panel-body">OI</div>
+                    </div>
+                    <br />
+                    <div class="panel panel-info">
+                        <div class="panel-heading">Usuário 1</div>
+                        <div class="panel-body">Olá Galera</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
